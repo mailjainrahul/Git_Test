@@ -1,0 +1,7 @@
+This is my first git file to use
+
+Thanks
+I added this line as a second comment
+I added this line as a Third comment
+I added this line as a Forth comment
+
